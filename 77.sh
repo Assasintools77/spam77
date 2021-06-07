@@ -12,13 +12,13 @@ w="\033[1;37m" # putih
 figlet "mr 77"
 	sleep 2
 
-user="yandaktaukoktanyasaya"
+user="fafa"
 while [ "$username" != "$user" ]
 do
 clear
     figlet "LOGIN BRO"
     echo "buka tautan di bawah untuk mendapatkan password " 
-    echo $b " =https://duit.cc/RP9z0wpOx"
+    echo " =https://duit.cc/RP9z0wpOx"
     echo
     echo
     read -p  "masukan password : " username
